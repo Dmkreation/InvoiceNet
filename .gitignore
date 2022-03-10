@@ -9,6 +9,8 @@ data/
 predictions/
 processed_data/
 invoices/
+train_data/
+build/
 
 **/.vscode/
 *.swp
